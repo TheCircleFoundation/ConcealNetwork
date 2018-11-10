@@ -1,5 +1,3 @@
-![image](https://github.com/TheCircleFoundation/conceal-assets/blob/master/splash.png)
-
 ## Information
 We have moved! You can find us at  [https://github.com/TheCircleFoundation/](https://github.com/TheCircleFoundation/)
 

@@ -1,9 +1,9 @@
 ## Information
-We have moved! You can find us at  [https://github.com/TheCircleFoundation/](https://github.com/TheCircleFoundation/)
+We have moved! You can find us at  [https://github.com/ConcealNetwork/](https://github.com/ConcealNetwork/)
 
 ## Resources
 - Web: [conceal.network](https://conceal.network/)
-- GitHub: [https://github.com/Conceal.Network](https://github.com/Conceal.Network)
+- GitHub: [https://github.com/ConcealNetwork](https://github.com/ConcealNetwork)
 - Discord: [https://discord.gg/YbpHVSd](https://discord.gg/YbpHVSd)
 - Twitter: [https://twitter.com/ConcealNetwork](https://twitter.com/ConcealNetwork)
 - Medium: [https://medium.com/@ConcealNetwork](https://medium.com/@ConcealNetwork)

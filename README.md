@@ -3,7 +3,7 @@ We have moved! You can find us at  [https://github.com/TheCircleFoundation/](htt
 
 ## Resources
 - Web: [conceal.network](https://conceal.network/)
-- GitHub: [https://github.com/TheCircleFoundation/conceal-core](https://github.com/TheCircleFoundation/conceal-core)
+- GitHub: [https://github.com/Conceal.Network](https://github.com/Conceal.Network)
 - Discord: [https://discord.gg/YbpHVSd](https://discord.gg/YbpHVSd)
 - Twitter: [https://twitter.com/ConcealNetwork](https://twitter.com/ConcealNetwork)
 - Medium: [https://medium.com/@ConcealNetwork](https://medium.com/@ConcealNetwork)

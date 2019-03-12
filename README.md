@@ -3,7 +3,7 @@ We have moved! You can find us at  [https://github.com/ConcealNetwork/](https://
 
 ## Resources
 - Web: [Conceal.Network](https://conceal.network/)
-- Web: [Conceal.Cloud](https://conceal.cloud/)
+- Cloud: [Conceal.Cloud](https://conceal.cloud/)
 - GitHub: [https://github.com/ConcealNetwork](https://github.com/ConcealNetwork)
 - Discord: [https://discord.gg/YbpHVSd](https://discord.gg/YbpHVSd)
 - Twitter: [https://twitter.com/ConcealNetwork](https://twitter.com/ConcealNetwork)

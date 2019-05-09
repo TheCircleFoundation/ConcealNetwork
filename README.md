@@ -1,5 +1,5 @@
 ## Information
-We have moved! You can find us at  [https://github.com/ConcealNetwork/](https://github.com/ConcealNetwork/)
+Conceal.Network main repository  [https://github.com/ConcealNetwork/](https://github.com/ConcealNetwork/)
 
 ## Resources
 - Web: [Conceal.Network](https://conceal.network/)

@@ -1,5 +1,5 @@
 ## Information
-Conceal.Network main repository  [https://github.com/ConcealNetwork/](https://github.com/ConcealNetwork/)
+Conceal.Network Official [https://github.com/ConcealNetwork/](https://github.com/ConcealNetwork/)
 
 ## Resources
 - Web: [Conceal.Network](https://conceal.network/)

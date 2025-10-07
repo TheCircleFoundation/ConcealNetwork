@@ -3,7 +3,7 @@ Conceal.Network Official [https://github.com/ConcealNetwork/](https://github.com
 
 ## Resources
 - Web: [Conceal.Network](https://conceal.network/)
-- Cloud: [Conceal.Cloud](https://conceal.cloud/)
+- Wallet: [Web Wallet](https://wallet.conceal.network/)
 - GitHub: [https://github.com/ConcealNetwork](https://github.com/ConcealNetwork)
 - Discord: [https://discord.gg/YbpHVSd](https://discord.gg/YbpHVSd)
 - Twitter: [https://twitter.com/ConcealNetwork](https://twitter.com/ConcealNetwork)
